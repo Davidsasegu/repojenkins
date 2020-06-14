@@ -1,2 +1,2 @@
 Fichero para la actividad 2 Plugin Github
-Editado para probar Jobs jenkins
+Editado para probar Jobs jenkins para mostrar los cambios del fichero modificado
